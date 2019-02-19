@@ -1,6 +1,6 @@
 {
   "name": "ember-intl-tel-input2",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "An Ember.js addon for entering and validating international telephone numbers.",
   "keywords": [
     "ember-addon",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdatehortuab/ember-intl-tel-input"
+    "url": "https://github.com/Owlman145/ember-intl-tel-input"
   },
   "bugs": {
-    "url": "https://github.com/cdatehortuab/ember-intl-tel-input/issues"
+    "url": "https://github.com/Owlman145/ember-intl-tel-input/issues"
   },
   "dependencies": {
     "broccoli-file-creator": "^1.1.1",
