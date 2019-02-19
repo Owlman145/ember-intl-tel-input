@@ -14,8 +14,10 @@ module.exports = function(defaults) {
 
     'ember-prism': {
       components: [
+        'css',
         'handlebars',
         'javascript',
+        'markup-templating'
       ],
       plugins: [
         'show-language',
